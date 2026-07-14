@@ -36,17 +36,17 @@ Desarrollo herramientas de automatización para el procesamiento de grandes vol�
 #### 🔹 **Detección de Eventos en Monitoreo Ambiental**
 Automatización de análisis de series temporales de ruido ambiental continuo (7-30 días) con detección de eventos impulsivos nocturnos (criterio ISO 1996-2: Lmax-L90 > 15dB).
 
-🔗 [Ver Proyecto A](link-al-repo)
+🔗 [Ver Proyecto A](https://github.com/alberto-lopardo/monitoreo-ruido-ambiental-urbano)
 
 ####  **Análisis Espectral y Ponderación A**
 Implementación del filtro de ponderación A según IEC 61672-1, análisis FFT y cálculo de bandas de tercio de octava (ISO 266).
 
- [Ver Proyecto B](link-al-repo)
+ [Ver Proyecto B](https://github.com/alberto-lopardo/analisis-espectral-ponderacion-a)
 
 #### 🔹 **Validación Metrológica Automatizada**
 Validación automática de campañas de medición según criterios ISO 17025 e IEC 61672 (deriva de calibración, tolerancias).
 
- [Ver Proyecto C](link-al-repo)
+ [Ver Proyecto C](https://github.com/alberto-lopardo/validacion-metrologica-acustica)
 
 ---
 
