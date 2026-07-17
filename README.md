@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alberto Lopardo
 
-## 🎵 Especialista en Acústica y Análisis de Señales
+## 🔊 Especialista en Acústica y Análisis de Señales
 
 **Ruido Ambiental & URN | Data Science aplicado a Acústica**
 
