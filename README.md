@@ -52,7 +52,7 @@ Validación automática de campañas de medición según criterios ISO 17025 e I
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.veredict.com/api?username=alberto-lopardo&show_icons=true&theme=radical)
+![Estadísticas](![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alberto-lopardo&show_icons=true&theme=radical)
 
 ---
 
